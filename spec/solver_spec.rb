@@ -17,7 +17,7 @@ RSpec.describe Solver do
     end
   end
   describe '#reverse' do
-    it 'should throw an error with wrong number of arguments' do 
+    it 'should throw an error with wrong number of arguments' do
       expect { Solver.new.reverse('happy', 'live') }.to raise_error(ArgumentError)
       expect { Solver.new.reverse('hello', 'hi') }.to raise_error(ArgumentError)
     end
