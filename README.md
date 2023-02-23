@@ -120,6 +120,6 @@ Hat tip to anyone whose code snippet was used for inspiration.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Mukumbuta/School_Library_Manager/blob/Association/MIT.md) licensed.
+This project is [MIT](https://github.com/Mukumbuta/TDD_Project/blob/Add_tests/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
