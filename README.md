@@ -23,9 +23,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [SCHOOL LIBRARY MANAGER] <a name="about-project"></a>
+# 📖 [TDD_project] <a name="about-project"></a>
 
-**[School Library]** This is a school library management system
+**[TDD_project]** this project focuses on applying TDD to writing unit tests. While unit testing often involves writing tests *after* the software is complete, TDD involves writing tests *before* writing the software that is to be tested.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,8 +41,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Manages students and teachers for a particular school]**
-- **[Enforces parental control and entry restrictions]**
+- **[write and correct the failed tests before writing new code]**
+- **[ writing automated tests to verify desired functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +62,7 @@ Terminal
 
 Clone this repository to your desired folder:
 
-cd [your-folder] https://github.com/Mukumbuta/School_Library_Manager.git
+cd [your-folder] https://github.com/Mukumbuta/TDD_Project.git
 cd my-folder
 
 Test
@@ -78,6 +78,17 @@ rubocop
 - GitHub: [@Mukumbuta](https://github.com/Mukumbuta)
 - Twitter: [@Mukumbuta8](https://twitter.com/Mukumbuta8)
 - LinkedIn: [Mukumbuta](https://linkedin.com/in/mukumbuta)
+
+👤 **Falis Abdikani**
+
+- GitHub: [@ibtisam34](https://github.com/ibtisam34)
+- Twitter: [@twitter](https://twitter.com/Queenjin2)
+- LinkedIn: [linkedIn](https://www.linkedin.com/in/falis-abdikani/)
+
+👤 **Gulalai Ahmed**
+
+- GitHub: [@AhmedGu](https://github.com/AhmadiGu)
+- LinkedIn: [linkedIn](https://ahmadigu.github.io/Desktop_Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
